@@ -67,7 +67,11 @@ A logical data model must contain:
 - column names
 - relationship type
 
+
 Please do not pick the exact same tables that I have already diagramed. For example, you shouldn't diagram the relationship between `product` and `product_category`, but you could diagram `product` and `customer_purchases`.
+
+![hw1](https://github.com/user-attachments/assets/f217e45c-8dc7-47b0-a8be-d0bb89b325b3)
+
 
 **A few hints**:
 - You will need to use the Browse Data tab in the main window to figure out the relationship types.
