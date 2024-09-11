@@ -70,7 +70,7 @@ A logical data model must contain:
 
 Please do not pick the exact same tables that I have already diagramed. For example, you shouldn't diagram the relationship between `product` and `product_category`, but you could diagram `product` and `customer_purchases`.
 
-![hw1](https://github.com/user-attachments/assets/f217e45c-8dc7-47b0-a8be-d0bb89b325b3)
+![hw_1](https://github.com/user-attachments/assets/6f3c10aa-f345-46bf-8b84-5ff913d0d4bb)
 
 
 **A few hints**:
